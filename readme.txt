@@ -3,3 +3,5 @@ Git is free software.
 add
 git has a mutable index called stage
 new line
+tow line
+3
