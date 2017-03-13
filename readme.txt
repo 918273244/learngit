@@ -4,4 +4,5 @@ add
 git has a mutable index called stage
 new line
 tow line
-3
+3 line
+Steven line
