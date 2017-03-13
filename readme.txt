@@ -2,8 +2,4 @@ Git is a distributed version control system.
 Git is free software.
 add
 git has a mutable index called stage
-new line
-tow line
-3 line
-Steven line
-Creating a new branch is quick
+Steven Creating a new branch is quick
